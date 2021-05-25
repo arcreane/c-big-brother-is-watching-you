@@ -8,5 +8,5 @@ QT_FaceRecognizer::QT_FaceRecognizer(QWidget *parent)
 
 void QT_FaceRecognizer::monSlot()
 {
-    qDebug()<<"test";
+    qDebug()<<"test2";
 }
