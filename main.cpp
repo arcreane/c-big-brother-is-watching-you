@@ -1,5 +1,11 @@
 #include "QT_FaceRecognizer.h"
 #include <QtWidgets/QApplication>
+<<<<<<< Updated upstream
+=======
+#include <QtWidgets/QMainWindow>
+#include <opencv2/opencv.hpp>
+#include <opencv2/highgui/highgui.hpp>
+>>>>>>> Stashed changes
 
 int main(int argc, char *argv[])
 {

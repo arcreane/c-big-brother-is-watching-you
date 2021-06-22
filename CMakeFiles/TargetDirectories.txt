@@ -1,0 +1,4 @@
+/Users/thomaseyaa/Documents/Webstart/Dev2/C++/c-big-brother-is-watching-you/CMakeFiles/rebuild_cache.dir
+/Users/thomaseyaa/Documents/Webstart/Dev2/C++/c-big-brother-is-watching-you/CMakeFiles/edit_cache.dir
+/Users/thomaseyaa/Documents/Webstart/Dev2/C++/c-big-brother-is-watching-you/CMakeFiles/untitled1.dir
+/Users/thomaseyaa/Documents/Webstart/Dev2/C++/c-big-brother-is-watching-you/CMakeFiles/c_big_brother_is_watching_you.dir

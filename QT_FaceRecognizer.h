@@ -7,7 +7,7 @@ class QT_FaceRecognizer : public QMainWindow
 {
     Q_OBJECT
 
-public slots : 
+public slots:
     void monSlot();
 
 public:
@@ -15,4 +15,6 @@ public:
 
 private:
     Ui::QT_FaceRecognizerClass ui;
+
+   void paintEvent(QPaintEvent *event) override;
 };

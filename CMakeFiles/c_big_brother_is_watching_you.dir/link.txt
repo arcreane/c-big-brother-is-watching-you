@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/c_big_brother_is_watching_you.dir/main.cpp.o CMakeFiles/c_big_brother_is_watching_you.dir/QT_FaceRecognizer.cpp.o -o c_big_brother_is_watching_you 
