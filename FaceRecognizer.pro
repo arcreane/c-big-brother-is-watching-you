@@ -22,8 +22,6 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
-<<<<<<< Updated upstream
-=======
 
 CONFIG += link_pkgconfig
 
@@ -35,4 +33,3 @@ LIBS += -L"/usr/local/Cellar/opencv/4.5.2_4/lib" -lopencv_gapi -lopencv_stitchin
 QMAKE_INFO_PLIST= Info.plist
 
 QMAKE_POST_LINK += plutil -replace NSCameraUsageDescription -string \"My usage description.\" $${TARGET}.app/Contents/Info.plist
->>>>>>> Stashed changes

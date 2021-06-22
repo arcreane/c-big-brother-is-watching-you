@@ -6,13 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-<<<<<<< Updated upstream
-    <width>600</width>
-    <height>400</height>
-=======
     <width>534</width>
     <height>589</height>
->>>>>>> Stashed changes
    </rect>
   </property>
   <property name="windowTitle">
@@ -100,8 +95,6 @@ border-radius: 8px;</string>
      </property>
     </widget>
    </widget>
-<<<<<<< Updated upstream
-=======
    <widget class="QWidget" name="home" native="true">
     <property name="geometry">
      <rect>
@@ -246,18 +239,13 @@ p, li { white-space: pre-wrap; }
      </property>
     </widget>
    </widget>
->>>>>>> Stashed changes
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-<<<<<<< Updated upstream
-     <width>600</width>
-=======
      <width>534</width>
->>>>>>> Stashed changes
      <height>22</height>
     </rect>
    </property>
